@@ -1,9 +1,50 @@
 body {
     margin: auto;
     align-items: center;
+    background-color: #cdcfcf !important;
 }
 
+nav {
+    background-color: #262324 !important;
+}
+footer {
+    background-color: #262324 !important;
+    color: white;
+    height: 56px;
+    padding-top: 10px;
+}
+
+a {
+    color: white !important;
+}
 
 img {
     width: 50%;
 }
+
+th {
+    background-color: #262324 !important;
+    color: white !important;
+}
+
+td {
+    background-color: #f3f6f6 !important;
+}
+
+h1 {
+    font-weight: bold !important;
+    color: white !important;
+    border: #262324 5px solid;
+    width: 50%;
+    border-radius: 5px;
+    background-color: #262324;
+}
+
+button {
+    background-color: white !important;
+}
+
+#bemutatas {
+    margin-bottom: 25px;
+}
+
